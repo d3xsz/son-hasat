@@ -1,10 +1,19 @@
 # Son Hasat
 
+![Son Hasat](docs/kapak.png)
+
 **1–4 oyunculu, LAN üzerinden oynanan, birinci şahıs gerilim ve bulmaca oyunu.**
 Unity 6 (URP) ve Netcode for GameObjects ile geliştirildi.
 
 Tekneniz sisli bir adanın kıyısına çarptı. Dört korkuluk, zehirli çiçeklerin, öfkeli totemlerin ve karanlığın arasında
 yalnızca ellerindeki fenerle hayatta kalmaya çalışıyor. Ada sizi yer altına, oradan da kimsenin uyanamadığı bir rüyaya sürüklüyor.
+
+<p>
+<img src="docs/ekran_1_dusus.jpg" width="49%"> <img src="docs/ekran_3_ruya_koyu.jpg" width="49%">
+<img src="docs/ekran_4_tekne.jpg" width="49%"> <img src="docs/ekran_5_magara.jpg" width="49%">
+</p>
+
+**itch.io:** https://d3xs.itch.io/son-hasat
 
 ## İndir ve oyna
 
