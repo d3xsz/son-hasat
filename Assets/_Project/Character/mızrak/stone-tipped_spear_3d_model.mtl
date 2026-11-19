@@ -1,0 +1,11 @@
+newmtl tripo_material_d24906e0_f974_4388_814a_c212bd1c05a7
+Kd 1.000000000 1.000000000 1.000000000
+d 1.000000000
+illum 2
+map_Kd stone-tipped_spear_3d_model_basecolor.jpg
+Pr 1.000000000
+Pm 1.000000000
+map_Pr stone-tipped_spear_3d_model_roughness.png
+map_Pm stone-tipped_spear_3d_model_metallic.png
+norm stone-tipped_spear_3d_model_normal.png
+

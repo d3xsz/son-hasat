@@ -1,0 +1,11 @@
+newmtl tripo_material_3f6a96e8_5b92_41d3_82be_3fcbcfc777fa
+Kd 1.000000000 1.000000000 1.000000000
+d 1.000000000
+illum 2
+map_Kd tiki_statue_3d_model_basecolor.jpg
+Pr 1.000000000
+Pm 1.000000000
+map_Pr tiki_statue_3d_model_roughness.png
+map_Pm tiki_statue_3d_model_metallic.png
+norm tiki_statue_3d_model_normal.png
+

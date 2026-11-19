@@ -1,0 +1,11 @@
+newmtl tripo_material_f2554bee_cecd_44bf_8f58_e28ed69d8f2c
+Kd 1.000000000 1.000000000 1.000000000
+d 1.000000000
+illum 2
+map_Kd fantasy_plant_3d_model_basecolor.jpg
+Pr 1.000000000
+Pm 1.000000000
+map_Pr fantasy_plant_3d_model_roughness.png
+map_Pm fantasy_plant_3d_model_metallic.png
+norm fantasy_plant_3d_model_normal.png
+

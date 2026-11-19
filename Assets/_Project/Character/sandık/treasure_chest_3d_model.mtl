@@ -1,0 +1,11 @@
+newmtl tripo_material_130768a1_352c_4fa5_bef5_ea8222c7e353
+Kd 1.000000000 1.000000000 1.000000000
+d 1.000000000
+illum 2
+map_Kd treasure_chest_3d_model_basecolor.jpg
+Pr 1.000000000
+Pm 1.000000000
+map_Pr treasure_chest_3d_model_roughness.png
+map_Pm treasure_chest_3d_model_metallic.png
+norm treasure_chest_3d_model_normal.png
+

@@ -1,0 +1,11 @@
+newmtl tripo_material_b0d4cbcd_4497_4ed5_ba76_4c26068dd48a
+Kd 1.000000000 1.000000000 1.000000000
+d 1.000000000
+illum 2
+map_Kd wooden_barrels_3d_model_basecolor.jpg
+Pr 1.000000000
+Pm 1.000000000
+map_Pr wooden_barrels_3d_model_roughness.png
+map_Pm wooden_barrels_3d_model_metallic.png
+norm wooden_barrels_3d_model_normal.png
+

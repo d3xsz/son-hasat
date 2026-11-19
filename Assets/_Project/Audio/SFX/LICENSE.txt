@@ -1,0 +1,16 @@
+Bu klasördeki sesler BigSoundBank.com'dan (Joseph Sardin) indirildi, lisans: CC0 (kamu malı).
+Uzun kayıtlar tek tek seslere bölündü ve normalize edildi (WAV).
+Step_Walk_* = steps-in-the-short-grass (0854), Step_Run_* = steps-in-the-grass-quick (1254),
+Jump_Land = jumping-on-grass-1 (1839), Whoosh_1/2/3 = whoosh-4/7/8 (1796, 1800, 1801),
+Hit_1/2 = punch-5/6 (2460, 2461), Pickup_* = canvas-bag-on-floor (0576),
+Totem_Take = tombstone-opening (0580), Flashlight_Click_* = switch-desk-lamp (0036),
+RockHit_* = fall-of-stone (1022), Rumble = thunder-2 (3113), UI_Page = turned-page (0164),
+Spider_Roar = cat-roar-1 (1881), Spider_Death = bones-cracking-2 (1408),
+Door_Creak = creaking-barn-door (0539, bir parça), Door_Creak_2 = creaking-door-2 (3205),
+Door_Unlock = barn-lock-unlocking (1539, bir parça),
+Sea_Waves = sea-waves (0266), Tree_Crash = chainsaw-and-falling-tree (2750, yalnızca devrilme/çarpma parçası),
+Splash_Big = splash-big-1 (1519, bir parça),
+Heartbeat = heartbeat-1 (0243), Fall_Wind = whistling-of-the-wind-2 (0155, döngülü parça),
+Impact_Boom = thunder-3 (3114, bir parça),
+Drip_* = drops-of-water-1 (1384, tek damlalar), Cave_Ambience = cave-2 (2136, döngülü 40 sn parça)
+Step_Stone_* = step-shoe-on-stone-staircase (0606), Step_StoneRun_* = footsteps-shoe-on-concrete (0514) — tek adımlara bölündü, normalize (CC0, BigSoundBank / Joseph Sardin).

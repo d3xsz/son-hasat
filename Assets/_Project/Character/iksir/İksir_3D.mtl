@@ -1,0 +1,11 @@
+newmtl tripo_material_4a2c352c_f7db_41c5_b49e_6cfe43c5af20
+Kd 1.000000000 1.000000000 1.000000000
+d 1.000000000
+illum 2
+map_Kd İksir_3D_basecolor.jpg
+Pr 1.000000000
+Pm 1.000000000
+map_Pr İksir_3D_roughness.png
+map_Pm İksir_3D_metallic.png
+norm İksir_3D_normal.png
+

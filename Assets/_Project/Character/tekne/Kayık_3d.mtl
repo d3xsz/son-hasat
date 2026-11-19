@@ -1,0 +1,11 @@
+newmtl tripo_material_edfbb7dd_78be_44ef_bfc7_cab3bbaf1bcf
+Kd 1.000000000 1.000000000 1.000000000
+d 1.000000000
+illum 2
+map_Kd Kayık_3d_basecolor.jpg
+Pr 1.000000000
+Pm 1.000000000
+map_Pr Kayık_3d_roughness.png
+map_Pm Kayık_3d_metallic.png
+norm Kayık_3d_normal.png
+

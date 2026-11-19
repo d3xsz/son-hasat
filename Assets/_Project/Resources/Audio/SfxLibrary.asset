@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a541e62879facb42afacc50ac24d01e, type: 3}
+  m_Name: SfxLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::SfxLibrary
+  stepWalk:
+  - {fileID: 8300000, guid: c8bae0bd652cf1f469b0cdadb6380914, type: 3}
+  - {fileID: 8300000, guid: d855f3e2632f1db40bda3f6374848263, type: 3}
+  - {fileID: 8300000, guid: f8490394445251046b112732c0e239c5, type: 3}
+  - {fileID: 8300000, guid: 23b3e738ee844004eb0d82610a7bae8a, type: 3}
+  - {fileID: 8300000, guid: af637b28dd65af34e81f40a96fd54af8, type: 3}
+  - {fileID: 8300000, guid: 330e27fca83fae84bad1c16e39d2d96f, type: 3}
+  - {fileID: 8300000, guid: d68ca5373870719419b763e60f8ef7b2, type: 3}
+  - {fileID: 8300000, guid: bef1972c7091ffb47bfd3b0832368259, type: 3}
+  - {fileID: 8300000, guid: d2d40a0c3574bc74fbe4f6b672a82d1c, type: 3}
+  stepRun:
+  - {fileID: 8300000, guid: 454153848ebd54a479b33d8172176bdb, type: 3}
+  - {fileID: 8300000, guid: d68ca5373870719419b763e60f8ef7b2, type: 3}
+  - {fileID: 8300000, guid: e14871f8f6b6d1d4a85cb80c2e652a9a, type: 3}
+  - {fileID: 8300000, guid: bef1972c7091ffb47bfd3b0832368259, type: 3}
+  - {fileID: 8300000, guid: 1d833c0dece7964429dd0a7ef54b601f, type: 3}
+  - {fileID: 8300000, guid: d2d40a0c3574bc74fbe4f6b672a82d1c, type: 3}
+  - {fileID: 8300000, guid: bf5e25e5c3a255649910a58c3d56b626, type: 3}
+  - {fileID: 8300000, guid: 489ee34596257e44099725a034f2c232, type: 3}
+  - {fileID: 8300000, guid: 4393ffb1319e3474aa4af6f9e8d61c83, type: 3}
+  - {fileID: 8300000, guid: 2ac4eeed0834a3e409bd26babca41033, type: 3}
+  stepStoneWalk:
+  - {fileID: 8300000, guid: 301139df14a42c1449c49ebcf164bdbb, type: 3}
+  - {fileID: 8300000, guid: ac752fa7c5425354da33ad750950df12, type: 3}
+  - {fileID: 8300000, guid: caf79fb2905b7ca44a02c48fcf2e3771, type: 3}
+  - {fileID: 8300000, guid: 2f141021b1369d3449ccb8f8b03637bd, type: 3}
+  - {fileID: 8300000, guid: a1bdb4be6b9add54eba34832acbd6341, type: 3}
+  - {fileID: 8300000, guid: 7e62cde6f1ae6064a86d457ef19c9de8, type: 3}
+  - {fileID: 8300000, guid: ecb0a759edebf0e4daa66d57772b0558, type: 3}
+  - {fileID: 8300000, guid: 2f54315a1369a454ebeb787a7fa92480, type: 3}
+  - {fileID: 8300000, guid: e064ffd8a6e322d4984af636877bcea3, type: 3}
+  - {fileID: 8300000, guid: 4e5755a72cb15734bac0cdbc6c90f5f4, type: 3}
+  stepStoneRun:
+  - {fileID: 8300000, guid: 0529e73fb6a097543b983d592bdcdfa9, type: 3}
+  - {fileID: 8300000, guid: 4fa4a84bfea4d0e4ea7062b8c08bf2bd, type: 3}
+  - {fileID: 8300000, guid: 78c99fd7ad689094ab8865baef7ab192, type: 3}
+  - {fileID: 8300000, guid: 1886b272c0793b64384d7d95bc0f4ca4, type: 3}
+  - {fileID: 8300000, guid: 26a94a55985ab84409934ac9c98e4250, type: 3}
+  - {fileID: 8300000, guid: b640dc80c8fc31f4f8b806d4b6d98738, type: 3}
+  - {fileID: 8300000, guid: 2a3577b3d0f210c4faedb76679c893ca, type: 3}
+  - {fileID: 8300000, guid: 43a1e00ec0707c14da78d7568e6b79a8, type: 3}
+  - {fileID: 8300000, guid: 62c52353d8c51a8489ebe8bab094b96a, type: 3}
+  - {fileID: 8300000, guid: e77c4b1d0be2f0f4384801d7a7909a6d, type: 3}
+  jumpLand:
+  - {fileID: 8300000, guid: a84b4cd7aedad744a81d7d8d64801126, type: 3}
+  spearWhoosh:
+  - {fileID: 8300000, guid: 425dc169e73c0c44fa7ebf6964e3f336, type: 3}
+  - {fileID: 8300000, guid: f6d4cf0d815bd01458b08946c24015ff, type: 3}
+  - {fileID: 8300000, guid: 9b0255df48e7d044f81336446c0ec619, type: 3}
+  spearHit:
+  - {fileID: 8300000, guid: cde16f00ac3b7c9439f93329e300353f, type: 3}
+  - {fileID: 8300000, guid: d5659ab1a6ab27b43932819caecabe79, type: 3}
+  pickup:
+  - {fileID: 8300000, guid: 5b85ab12c77c1d447846e2b42d3da469, type: 3}
+  - {fileID: 8300000, guid: 18c857aa6caa7ea4bbdaafa786b23dde, type: 3}
+  - {fileID: 8300000, guid: e1eee8d6202f78d4e9f131e48d744567, type: 3}
+  - {fileID: 8300000, guid: c2b2f97b74bfe5c4a9e18ff2941d8101, type: 3}
+  flashlightClick:
+  - {fileID: 8300000, guid: 7d080dc13d320324585db113137f223a, type: 3}
+  - {fileID: 8300000, guid: e17a2248979e2be429056f56b41bf050, type: 3}
+  totemTake:
+  - {fileID: 8300000, guid: d3dd36102a4fa6147b6036feae9050d2, type: 3}
+  rockHit:
+  - {fileID: 8300000, guid: dc926c29778d266448b8eccd5b8dbff2, type: 3}
+  - {fileID: 8300000, guid: 17a6ccf98eaa0234e972983409b2c8d9, type: 3}
+  - {fileID: 8300000, guid: 50f87817945937b4eb3ff9f5b0bec388, type: 3}
+  - {fileID: 8300000, guid: 44d9685ab9fb2bd43aa0a55470177426, type: 3}
+  - {fileID: 8300000, guid: 11c1abd24a03b1f4687db8f6562a2be8, type: 3}
+  - {fileID: 8300000, guid: 07d44fdb50b4e7c4bbc346acd2ed934e, type: 3}
+  - {fileID: 8300000, guid: 7370cfc59bdb3924fa6142ea2b9b193f, type: 3}
+  - {fileID: 8300000, guid: ec0924a6a62e86444b372fa3f5344326, type: 3}
+  rumble:
+  - {fileID: 8300000, guid: bf00b55021fd69344a52e072c099a5f1, type: 3}
+  doorUnlock:
+  - {fileID: 8300000, guid: d05ae5b56f0ae7441be045c8d29f5a46, type: 3}
+  doorCreak:
+  - {fileID: 8300000, guid: bc3d399409354b9488963c1075afe077, type: 3}
+  treeCrash:
+  - {fileID: 8300000, guid: f9f336e93fbbac14981e9d4ed767c657, type: 3}
+  splash:
+  - {fileID: 8300000, guid: ffa6a7bd58d93d54dab0c4419faa1e4a, type: 3}
+  seaWaves: {fileID: 8300000, guid: a61291a903ba1c8499c419204c50cbb9, type: 3}
+  caveAmbience: {fileID: 8300000, guid: f1789bb2ea422c441a5231289669d898, type: 3}
+  drips:
+  - {fileID: 8300000, guid: 6603ea81381e31d4d90c4dd10376f42a, type: 3}
+  - {fileID: 8300000, guid: ad3a23f823dbb8b42a48439eee2e082f, type: 3}
+  - {fileID: 8300000, guid: d64aab01ef57dbb4d8f14c4b29a4993a, type: 3}
+  - {fileID: 8300000, guid: 6372af00ce2c9dd4384420adb62c3207, type: 3}
+  - {fileID: 8300000, guid: 3acc6ee9a90be804098a7246b58899b7, type: 3}
+  - {fileID: 8300000, guid: 6a26554a678b9114796c9361f79dab58, type: 3}
+  - {fileID: 8300000, guid: 5d26e764f8f454440af196fcafbe4014, type: 3}
+  - {fileID: 8300000, guid: c3c19f0471521f84f89954437a5e2f17, type: 3}
+  fallWind: {fileID: 8300000, guid: 10428303c47f793459bee655a0cd0a7f, type: 3}
+  heartbeat:
+  - {fileID: 8300000, guid: 4891636e2f56cfa4ba42a02bd7b50c11, type: 3}
+  impactBoom:
+  - {fileID: 8300000, guid: ddc2efba3aaceaf429a997e37adf0b6d, type: 3}
+  spiderAttack:
+  - {fileID: 8300000, guid: c72b712aeb24d2c4ab857f10e7eba3e9, type: 3}
+  spiderDeath:
+  - {fileID: 8300000, guid: 8dde87c63ce2f3148a49fd438a2b7713, type: 3}
+  uiClick:
+  - {fileID: 8300000, guid: d67fd31a3bb35b444b885e7721b03716, type: 3}

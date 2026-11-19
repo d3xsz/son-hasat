@@ -1,0 +1,11 @@
+newmtl tripo_material_592661f7_3e92_42b2_8fb7_b6f8bc18fe5d
+Kd 1.000000000 1.000000000 1.000000000
+d 1.000000000
+illum 2
+map_Kd glowing_flower_plant_3d_model_basecolor.jpg
+Pr 1.000000000
+Pm 1.000000000
+map_Pr glowing_flower_plant_3d_model_roughness.png
+map_Pm glowing_flower_plant_3d_model_metallic.png
+norm glowing_flower_plant_3d_model_normal.png
+

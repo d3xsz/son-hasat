@@ -1,0 +1,5 @@
+Bu klasördeki sesler BigSoundBank.com'dan indirildi (Joseph Sardin), lisans: CC0 (kamu malı).
+https://bigsoundbank.com — her dosyanın ID'si:
+Animal_TawnyOwl4 = 3460, Animal_TawnyOwl2 = 1764,
+Animal_Crow1 = 3461, Animal_Crow3 = 3463, Animal_Crows2 = 0956, Animal_BrokenTwigs = 1299,
+Cough_Man5 = 2183, Cough_Man6 = 2184, Cough_Man2 = 1657

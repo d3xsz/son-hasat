@@ -1,0 +1,11 @@
+newmtl tripo_material_d1d86d7b_0777_42dd_ac92_9df0d192df44
+Kd 1.000000000 1.000000000 1.000000000
+d 1.000000000
+illum 2
+map_Kd scarecrow_3d_model_basecolor.jpg
+Pr 1.000000000
+Pm 1.000000000
+map_Pr scarecrow_3d_model_roughness.png
+map_Pm scarecrow_3d_model_metallic.png
+norm scarecrow_3d_model_normal.png
+
